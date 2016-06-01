@@ -165,26 +165,27 @@
 							<div class="col1">
 								<div class="h_nav">
 									<h4>Clothing</h4>
-									<ul>
-										<li><a href="SearchBySubCategory?subCategory=MenTshirt">T-Shirt</a></li>
-										<li><a href="SearchBySubCategory?subCategory=Jeans">Jeans</a></li>
-										<li><a href="#">women</a></li>
-										<li><a href="#">accessories</a></li>
-										<li><a href="#">kids</a></li>
-										<li><a href="#">brands</a></li>	
+									<ul class="leftIndentOfProduct">
+										<li><a href="SearchBySubCategory?subCategory=MenTshirt">T-Shirt</a></li><!-- half complete -->
+										<li><a href="SearchBySubCategory?subCategory=MenShirt">Shirt</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenKurta">Kurta</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenSherwani">Sherwani</a></li>
+										<li><a href="SearchBySubCategory?subCategory=Jeans">Jeans</a></li>          <!-- complete -->
+										<li><a href="SearchBySubCategory?subCategory=MenTrouser">Trouser</a></li>										
 									</ul>	
 								</div>							
 							</div>
 							<div class="col1">
 								<div class="h_nav">
-									<h4>kids</h4>
-									<ul>
-										<li><a href="#">Pools&#38;Tees</a></li>
-										<li><a href="#">shirts</a></li>
-										<li><a href="#">shorts</a></li>
-										<li><a href="#">twinsets</a></li>
-										<li><a href="#">kurts</a></li>
-										<li><a href="#">jackets</a></li>
+									<h4>Accessories</h4>
+									<ul class="leftIndentOfProduct">
+										<li><a href="SearchBySubCategory?subCategory=MenShoes">Shoes</a></li>      <!-- Different -->
+										<li><a href="SearchBySubCategory?subCategory=MenWatch">Watch</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenWallet">Wallet</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenBelt">Belt</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenSunglasses">Sunglasses</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenDeodrants">Deodrants</a></li>
+										<li><a href="SearchBySubCategory?subCategory=MenPerfumes">Perfumes</a></li>
 									</ul>	
 								</div>							
 							</div>
